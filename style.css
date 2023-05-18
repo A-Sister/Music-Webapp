@@ -1,0 +1,29 @@
+canvas{
+    border: 3px groove cadetblue;
+    border-radius:5px;
+    box-shadow:5px 5px 5px rgb(226, 226, 233);
+}
+
+body{
+    background-size: cover;
+}
+
+.heading{
+    width:100%;
+    margin:0px;
+    font-size: 25px;
+    box-shadow: 15px 10px 12px rgb(245, 147, 108);
+}
+
+.note{
+    color:black;
+    font-size:15px;
+}
+
+#name{
+    box-shadow: 5px 5px 6px lightcoral;
+    font-size:25px;
+    padding:5px;
+    padding-left:15px;
+    padding-right:15px;
+}
